@@ -1,0 +1,5 @@
+# Ignore Jupyter notebooks
+*RoughCalcs.ipynb
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
