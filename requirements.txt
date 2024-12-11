@@ -1,0 +1,15 @@
+
+fastapi==0.115.6
+Flask==3.1.0
+ipykernel==6.29.5
+ipython==8.29.0
+keras==3.6.0
+numpy==2.0.2
+pandas==2.2.3
+pydantic==2.10.3
+pydantic_core==2.27.1
+scikit-learn==1.6.0
+scipy==1.14.1
+tensorflow==2.18.0
+uvicorn==0.32.1
+yfinance==0.2.48
